@@ -17,4 +17,6 @@ git clone https://github.com/elmoutaquiHicham/portfolio-/edit/main/
 
 
 
-You can copy this text and add it to your README file to guide users on how to clone your repository and customize the portfolio.
+1. Open the index.html file and replace my information with yours.
+
+2. Feel free to customize the style.css file if you want to set up a new style for your portfolio.

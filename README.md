@@ -13,9 +13,7 @@ To get started, clone the repository using the following command in your command
 
 ```bash
 git clone https://github.com/elmoutaquiHicham/portfolio-/edit/main/
-
-
-
+```
 
 1. Open the index.html file and replace my information with yours.
 
